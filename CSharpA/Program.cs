@@ -6,4 +6,5 @@ CSharpA.UC2.Wage();
 CSharpA.UC3.Parttime();
 CSharpA.UC4.Switch();
 CSharpA.UC5.Month();
+CSharpA.UC6.Month();
 Console.ReadLine();
