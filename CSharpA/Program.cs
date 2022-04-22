@@ -3,4 +3,5 @@
 Console.WriteLine("Hello, World!");
 CSharpA.UC1.Attendence();
 CSharpA.UC2.Wage();
+CSharpA.UC3.Parttime();
 Console.ReadLine();
